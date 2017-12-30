@@ -1,4 +1,4 @@
-rootProject.name = 'ReactNativeNavigationMobxBoilerplate'
+rootProject.name = 'MobxNavigationExample'
 
 include ':app'
 

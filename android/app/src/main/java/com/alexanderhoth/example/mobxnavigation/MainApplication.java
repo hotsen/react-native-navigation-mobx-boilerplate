@@ -1,4 +1,4 @@
-package com.reactnativenavigationmobxboilerplate;
+package com.alexanderhoth.example.mobxnavigation;
 
 import android.app.Application;
 import android.support.annotation.Nullable;
